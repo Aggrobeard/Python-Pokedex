@@ -8,6 +8,6 @@ PIL.Image - You may need to intsall the Pillow library for this import to work -
 os
 
 To-Do:
-Add a folder called 'images' to your repo
+Add a folder called 'images' to your repo (this is where the image of the pokemon will temporarily download)
 
 It's a simple console app, just open it, install the libraries, and run main.py :)
